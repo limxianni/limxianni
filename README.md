@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @limxianni
-- 👀 I’m interested in graphic, design, UX
-- 🌱 I’m currently a year 2 comp sci student
+- 👀 Interested in front-end, UX, UI
+- 🌱 Currently a year 2 comp sci student
 
 <!---
 limxianni/limxianni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
