@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eunice Lim Xian Ni</h1>
 <h3 align="center">Trying to learn as much so that I can equip myself as a developer.</h3> <br>
 
-- 🔭 I’m currently participating in **Reach Hackathon**
-
-- 🌱 I’m currently learning **ReactJs and Reach**
+- 🔭 Currently developing an **AR Eyewear App** using ReactNative and admin panel using ReactJS. The whole system is built based on MERN stack, integrating with Unity.
 
 - 📫 Email: **eunicelim1520@gmail.com**
 
 - 💙 Find me at: **www.linkedin.com/in/eunice-lim-xian-ni-68b9b2205**
 
-- ⚡ Fun fact **Interested in science and art and coding**
+- ⚡ Fun fact **Interested in science and coding**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
