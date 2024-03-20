@@ -7,7 +7,7 @@
 
 - 💙 Find me at: **www.linkedin.com/in/eunice-lim-xian-ni-68b9b2205**
 
-- ⚡ Fun fact **Interested in science and coding**
+- ⚡ Fun fact: **Interested in UI/UX, graphical images, frontend development**
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
