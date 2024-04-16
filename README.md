@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eunice Lim Xian Ni</h1>
 <h3 align="center">Trying to learn as much so that I can equip myself as a developer.</h3> <br>
 
-- 🔭 Currently developing an **AR Eyewear App** using ReactNative and admin panel using ReactJS. The whole system is built based on MERN stack, integrating with Unity.
+- 🔭 Currently developing an **AR Eyewear App** using ReactNative and admin panel using ReactJS. The whole system is built based on MERN stack, integrating with Unity AR Foundation.
 
 - 📫 Email: **eunicelim1520@gmail.com**
 
